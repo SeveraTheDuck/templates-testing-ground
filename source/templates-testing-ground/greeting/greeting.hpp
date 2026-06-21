@@ -1,3 +1,8 @@
+/**
+ * @file greeting.hpp
+ * @brief Greeting utilities for templates-testing-ground.
+ */
+
 #pragma once
 
 #include <string>
@@ -5,7 +10,12 @@
 
 namespace templates_testing_ground {
 
-// Returns a greeting for the given name. Replace with your own API.
+/**
+ * @brief Builds a greeting message for the given name.
+ *
+ * @param name Name to greet.
+ * @return A greeting of the form "Hello, <name>!".
+ */
 [[nodiscard]] std::string Greeting(std::string_view name);
 
 }  // namespace templates_testing_ground
