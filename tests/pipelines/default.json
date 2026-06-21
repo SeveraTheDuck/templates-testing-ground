@@ -1,0 +1,8 @@
+{
+  "suites": [
+    {
+      "label": "templates-testing-ground_greeting_unit",
+      "presets": ["dev", "dev-asan"]
+    }
+  ]
+}
