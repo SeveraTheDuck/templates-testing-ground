@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier
+_commit: v1.1.2
+_src_path: gh:SeveraTheDuck/templates-base
+author: Alexander Antipov
+github_owner: SeveraTheDuck
+license: MIT
+project_description: A testing ground for my template-* series projects
+project_name: templates-testing-ground
