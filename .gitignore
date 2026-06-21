@@ -13,3 +13,8 @@ result-*
 *.sw[po]
 *~
 # === end templates-base =======================================================
+# === templates-lang-cpp =======================================================
+# -- CMake / build --
+build/
+compile_commands.json
+# === end templates-lang-cpp ===================================================
